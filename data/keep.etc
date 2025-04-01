@@ -144,7 +144,7 @@
 /etc/nwam/loc/NoNet/ipf6.conf.dfl
 /etc/nwam/loc/create_loc_auto
 /etc/nwam/loc/create_loc_nonet
-/etc/os-release
+/etc/release
 /etc/pam.conf
 /etc/passwd
 /etc/path_to_inst
